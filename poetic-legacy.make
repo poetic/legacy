@@ -40,7 +40,7 @@ projects[feeds]													= 2.0-alpha8
 ; in the module filder but drush version 4 throws n error stopping platform creation
 projects[feeds_jsonpath_parser][type] = "module"
 projects[feeds_jsonpath_parser][download][type] = "git"
-projects[feeds_jsonpath_parser][download][url]="git@bitbucket.org:poetic/feeds_jsonpath_parser.git"
+projects[feeds_jsonpath_parser][download][url]="https://bitbucket.org/poetic/feeds_jsonpath_parser.git"
 
 projects[field_collection]							= 1.0-beta5
 projects[field_group]										= 1.1
