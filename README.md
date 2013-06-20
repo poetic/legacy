@@ -2,13 +2,15 @@ Poetic Legacy Makefile
 
 What is it?
 -----------
-This is the poeticmake file for our Aegir server. It contains 2 files, this readme and poetic_legacy.make.
+This is the poeticmake file for our Aegir server. It contains 2 files, this
+readme and poetic_legacy.make.
 
 Installation
 ------------
-The make file is administrered from the backend of Aegir and used to build platforms.
+The make file is administrered from the backend of Aegir and used to build
+platforms.
 
-Authors 
+Authors
 -------
 Joseph Leon
 Matthew Hager
@@ -23,4 +25,5 @@ Company: Poetic Systems poeticsystems.com
 
 Legal
 -----
-This is an internal poetic document and is not meant to be used by any company unless authorized by poetic. It can be used for private use.
+This is an internal poetic document and is not meant to be used by any company
+unless authorized by poetic. It can be used for private use.
