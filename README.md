@@ -3,7 +3,8 @@ Poetic Legacy Makefile
 What is it?
 -----------
 This is the poeticmake file for our Aegir server. It contains 2 files, this
-readme and poetic_legacy.make.
+readme and poetic_legacy.make. This creates the platform for the poetic
+legacy sites.
 
 Installation
 ------------
