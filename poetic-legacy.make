@@ -87,10 +87,10 @@ projects[mobile_switch]									= 2.0-alpha1
 ; Included only to transfer sites with old mobile theme switch, switch to Mobile Switch
 projects[mobile_tools]									= 2.0-unstable1
 
-projects[module_filter]									= 1.7
+projects[module_filter]									= 1.8
 projects[multiupload_filefield_widget]	= 1.11
 projects[multiupload_imagefield_widget] = 1.2
-projects[nice_menus]										= 2.1
+projects[nice_menus]										= 2.5
 projects[nivo_formatter]								= 1.x-dev
 projects[node_clone]										= 1.0-rc1
 projects[node_view_permissions]					= 1.0
@@ -129,7 +129,7 @@ projects[views_load_more]								= 1.1
 projects[views_nivo_slider]							= 3.x-dev
 projects[views_slideshow]								= 3.0
 projects[views_slideshow_galleria]			= 3.1
-projects[webform]												= 3.18
+projects[webform]												= 3.19
 projects[webform_validation]						= 1.2
 projects[wysiwyg]												= 2.2
 projects[xmlsitemap]										= 2.0-rc2
