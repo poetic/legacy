@@ -34,7 +34,7 @@ projects[eva]														= 1.2
 projects[exclude_node_title]						= 1.6
 projects[fboauth]												= 1.6
 projects[features]											= 2.0-beta2
-projects[feeds]													= 2.0-alpha8
+projects[feeds]													= 2.0-beta1
 
 ; Uses our own repo of feeds_jsonpath_parser because the php library needs to be
 ; in the module filder but drush version 4 throws n error stopping platform creation
