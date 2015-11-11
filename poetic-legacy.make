@@ -1,7 +1,7 @@
 ; Base make file settings:
 core = 7.x
 api = 2
-projects[drupal][version] = "7.22"
+projects[drupal][version] = "7.41"
 
 ; Modules:
 projects[addressfield] 									= 1.0-beta3
@@ -9,26 +9,26 @@ projects[admin_menu]										= 3.0-rc4
 projects[archive] 											= 1.3-alpha1
 projects[auto_nodetitle]								= 1.0
 projects[autosave]											= 2.2
-projects[better_exposed_filters]				= 3.0-beta3
+projects[better_exposed_filters]				= 3.2
 projects[block_class]										= 2.0
 projects[calendar]											= 3.4
-projects[captcha]												= 1.0-beta2
+projects[captcha]												= 1.3
 projects[ckeditor]											= 1.13
-projects[colorbox]											= 2.4
+projects[colorbox]											= 2.1
 projects[computed_field]								= 1.0-beta1
 projects[computed_field_tools]					= 1.x-dev
 projects[content_access]								= 1.2-beta2
 projects[context]												= 3.0-beta6
 projects[css3pie]												= 2.1
-projects[ctools]												= 1.3
+projects[ctools]												= 1.9
 projects[custom_breadcrumbs]						= 2.0-alpha3
 projects[custom_formatters]							= 2.2
-projects[date]													= 2.6
+projects[date]													= 2.9
 projects[devel]													= 1.3
 projects[disqus]												= 1.9
-projects[entity]												= 1.1
-projects[entity_view_mode]							= 1.0-beta3
-projects[entityreference]								= 1.0
+projects[entity]												= 1.6
+projects[entity_view_mode]							= 1.0-rc1
+projects[entityreference]								= 1.1
 projects[entityreference_count]					= 1.x-dev
 projects[eva]														= 1.2
 projects[exclude_node_title]						= 1.6
