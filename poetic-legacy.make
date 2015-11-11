@@ -99,7 +99,7 @@ projects[nodeblock]											= 1.3
 projects[nodequeue]											= 2.0-beta1
 projects[nodereference_count]						= 1.0
 projects[openid_selector]								= 1.x-dev
-projects[openlayers]										= 2.0-beta7
+projects[openlayers]										= 2.0-beta11
 projects[proj4js]												= 1.2
 projects[panels]												= 3.3
 projects[pathauto]											= 1.2
@@ -164,7 +164,7 @@ libraries[openlayers][directory_name] = "dompdf"
 libraries[openlayers][type] = "library"
 
 libraries[signaturefield][download][type] = "get"
-libraries[signaturefield][download][url] = "https://github.com/thomasjbradley/signature-pad/zipball/master"
+libraries[signaturefield][download][url] = "https://github.com/thomasjbradley/signature-pad/archive/v2.5.0.zip"
 libraries[signaturefield][directory_name] = "signature-field"
 libraries[signaturefield][type] = "library"
 
